@@ -19,5 +19,5 @@ refer `example.py`
 ## Publisher
 [Machine Reading Lab](http://mrlab.kaist.ac.kr/) @ KAIST
 
-## Ciation
+## Citation
 Choi, Key-Sun, et al. **"Korean-Chinese-Japanese Multilingual Wordnet with Shared Semantic Hierarchy."** LREC. 2004.

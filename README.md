@@ -13,8 +13,8 @@ This repository is for CoreNet data, and Python API for using CoreNet. CoreNet i
 refer `example.py`
 
 ## Maintainer
-Younggyun Hahm `hahmyg@kaist.ac.kr`
-Kijong Han `han0ah@kaist.ac.kr`
+* Younggyun Hahm `hahmyg@kaist.ac.kr`
+* Kijong Han `han0ah@kaist.ac.kr`
 
 ## Publisher
 [Machine Reading Lab](http://mrlab.kaist.ac.kr/) @ KAIST
